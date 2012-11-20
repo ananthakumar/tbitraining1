@@ -15,5 +15,7 @@ for($i=1;$i<=$limit;$i++)	/* For loop for number of rows */
 	echo '</tr>';				/*End loop*/
 }
 echo '</table></body></html>';
-php?>
+//changes made by ramana
+echo 'test';
+?>
 
